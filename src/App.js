@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import Blog from './views/Blog'
+import MathStep from './views/MathStep'
 
 function App() {
   return (
     <div className="App">
-      <Blog/>
+      <MathStep/>
     </div>
   );
 }

@@ -6,7 +6,7 @@ import * as actions from './actions'
 
 const mapStateToProps = (state) => {
   return {
-    blog: state.blog,
+    blog: state.mathStep,
   }
 }
 
